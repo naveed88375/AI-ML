@@ -1,0 +1,3 @@
+Data for "Bag of Tricks" and "Transfer Learning can be found at the following kaggle link;
+
+https://www.kaggle.com/datasets/puneet6060/intel-image-classification
