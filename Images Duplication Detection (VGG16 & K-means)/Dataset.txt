@@ -1,0 +1,6 @@
+The core task of the project is to detect duplication in images.
+For this reason a kaggle dataset whose link is given below is adopted.
+Notice that the original images are categorized into 3 separate categories (Cats, Dogs, Pandas).
+However, for the purpose of this project's goal, download and merge all the images to a single folder.
+
+https://www.kaggle.com/datasets/ashishsaxena2209/animal-image-datasetdog-cat-and-panda
