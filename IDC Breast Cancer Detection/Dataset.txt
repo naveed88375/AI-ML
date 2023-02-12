@@ -1,0 +1,2 @@
+The dataset for the project can be found at given kaggle link.
+https://www.kaggle.com/code/paultimothymooney/predict-idc-in-breast-cancer-histology-images/data
