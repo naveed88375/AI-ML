@@ -1,0 +1,1 @@
+The data is obtained using wireshark to analyze data packets. Since it was confidential, that is why could not be shared online. You can however reach me if want to obtain it for research purpose.
