@@ -1,0 +1,3 @@
+The dataset can be downloaded from the following github link.
+
+https://github.com/VisDrone/VisDrone-Dataset
