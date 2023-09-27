@@ -1,3 +1,0 @@
-Model design taken from the following
-
-https://github.com/lucidrains/vit-pytorch
